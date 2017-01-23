@@ -1,0 +1,4 @@
+<resources>
+   <dimen name="detail_body_padding">4dp</dimen>
+
+</resources>
